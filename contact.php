@@ -1,0 +1,1 @@
+<?php include 'components/session-check.php' ?>
